@@ -1,6 +1,6 @@
 # candidate-thesis-code
 various R snippets to recreate datasets  (NOT FULLY REPLICABLE)
-
+If you think any scripts are missing from this repository, please contact me. The original contents are spread out on different computers so there may have been some scripts that i have missed to upload here.
 
 ## Related Kaggle materials
 
